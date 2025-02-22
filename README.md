@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohan jain
-- 🌱 I’m currently learning machine learing with python
+- 🌱 I’m currently working in Accenture
 - 📫 How to reach me rohanjain18922@gmail.com
 
 <!---
